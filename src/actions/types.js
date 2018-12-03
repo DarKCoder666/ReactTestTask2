@@ -1,0 +1,10 @@
+export const UPDATE_POST = 'UPDATE_TASK';
+export const ADD_POST = 'ADD_TASK';
+export const TOGGLE_PREVIEW_VISIBILITY = 'TOGGLE_PREVIEW_VISIBILITY';
+export const PREVIEW_INPUT_CHANGE = 'PREVIEW_INPUT_CHANGE';
+export const FILTER_CHANGE = 'FILTER_CHANGE';
+export const FILTER_POSTS = 'FILTER_POSTS';
+
+
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
